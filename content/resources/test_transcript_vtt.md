@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/leo-testing-fall-2025/test_transcript.vtt
+file: /courses/8-123-leo-testing-course-fall-2025/test_transcript.vtt
 file_size: 2118
 file_type: text/vtt
 gdrive_url: ''
