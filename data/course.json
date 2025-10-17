@@ -1,0 +1,30 @@
+{
+  "term": "Fall",
+  "year": "2025",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "leo-testing-fall-2025"
+  },
+  "course_image": {
+    "content": "",
+    "website": "leo-testing-fall-2025"
+  },
+  "course_title": "Leo Testing Course",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "12.43",
+  "primary_course_number": "8.123",
+  "learning_resource_types": [],
+  "site_uid": "dbbd34f4-0af2-44d4-a9af-40c47bef292b",
+  "site_short_id": "leo-testing-fall-2025",
+  "site_url_path": "courses/8-123-leo-testing-course-fall-2025"
+}
