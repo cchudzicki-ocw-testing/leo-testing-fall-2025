@@ -22,9 +22,9 @@ video_files:
     content: 10cfa571-60cb-4a57-a76b-924e99d5cd44
     website: leo-testing-fall-2025
   video_thumbnail_file: ''
-  video_transcript_file: /courses/8-123-leo-testing-course-fall-2025/tool_shelf.pdf
+  video_transcript_file: /courses/8-123-leo-testing-course-fall-2025/empty.csv
   video_transcript_resource:
-    content: 12e6fdef-807e-4729-8c46-7aaab4a01e84
+    content: 700f17bd-88ac-4489-8d0d-aa16487c8189
     website: leo-testing-fall-2025
 video_metadata:
   source: ''
