@@ -17,9 +17,9 @@ title: test_video.mp4
 uid: 9f2bd2fb-d207-43c0-ae39-a173dd9b09f5
 video_files:
   archive_url: ''
-  video_captions_file: /courses/8-123-leo-testing-course-fall-2025/test_latextex.zip
+  video_captions_file: null
   video_captions_resource:
-    content: 10cfa571-60cb-4a57-a76b-924e99d5cd44
+    content: ''
     website: leo-testing-fall-2025
   video_thumbnail_file: ''
   video_transcript_file: /courses/8-123-leo-testing-course-fall-2025/empty.csv
